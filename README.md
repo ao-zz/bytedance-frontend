@@ -13,19 +13,17 @@
 融合 Week 1-3 的内容，通过 JSX 代码的编译与渲染完成一个简单小程序的开发
 
 ## 运行
-1.
-安装依赖
+1. 安装依赖
 ```
 npm install
 ```
 
-2.
-Week 1-3 启动 server 后在浏览器打开
+2. Week 1-3 启动 server 后在浏览器打开
 ```
 npx http-server
 ```
 
-Week 4 需要执行编译
+3. Week 4 需要执行编译
 ```
 npm run build:compile
 ```
